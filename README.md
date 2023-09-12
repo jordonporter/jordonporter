@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jordonporter/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jordonporter/azure-network-protocols)
-  - [Network File Shares and Permissions](https://github.com/jordonporter/newtork-file-shares-and-permissions)
+  - [Network File Shares and Permissions](https://github.com/jordonporter/network-file-shares-and-permissions)
   - [Building Intuition for DNS](https://github.com/jordonporter/building-intuition-for-dns)
 
 <h2>🤳Connect with me:</h2>
