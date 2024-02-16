@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jordonporter/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jordonporter/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jordonporter/configure-ad)
+  - [Configuring On-premises Active Directory and Creating New Users within Azure VMs](https://github.com/jordonporter/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jordonporter/azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/jordonporter/network-file-shares-and-permissions)
   - [Building Intuition for DNS](https://github.com/jordonporter/building-intuition-for-dns)
